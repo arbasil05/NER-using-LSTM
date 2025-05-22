@@ -29,8 +29,8 @@ Evaluate model performance.
 Visualize predictions.
 
 ## PROGRAM
-### Name: Pranavesh Saikumar
-### Register Number: 212223040149
+### Name: Abdur Rahman Basil A H
+### Register Number: 212223040002
 ```python
 class BiLSTMTagger(nn.Module):
   def __init__(self, vocab_size, tagset_size, embedding_dim = 50, hidden_dim = 100):

@@ -91,7 +91,8 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 
 
 ### Sample Text Prediction
-![image](https://github.com/user-attachments/assets/ae354652-25e8-43a1-8c76-9c2c5d5b751c)
+![image](https://github.com/user-attachments/assets/35bba448-4eba-4c8c-a5d6-94cc2dc4a036)
+
 
 ## RESULT
 Thus, an LSTM-based model for recognizing the named entities in the text is created successfully.
